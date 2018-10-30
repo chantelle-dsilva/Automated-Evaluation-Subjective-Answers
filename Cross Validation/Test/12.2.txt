@@ -1,0 +1,6 @@
+12.2 run the code for n-times and get average values, drop the constant and lowest number. for example if <br>           f(x) = 3n +1<br>the running time will bef  f(x) = O(n)
+12.2 to measure the actual time of the program to run. and calculate the running time using the input and operations done
+12.2 adding up the number of operations performed based on the worst case possible.
+12.2 the experimental approach would be to run through the algorithm and see how long it takes
+12.2 trying it with different sets of inputs, and measuring the amount of time that the algorithm actually takes.
+12.2 running the input with various inputs measuring the running time with  system time 

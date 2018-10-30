@@ -1,0 +1,6 @@
+3.3 Compiler generate a copy of the function's code in place (when appropriate) to avoid a function call
+3.3 instead of calling the function every time it is invoked, the compiler will replace the function call with a copy of the function body
+3.3 Expands the function into the program
+3.3 it generates a copy of the functions code in place to avoid a function call
+3.3 the function call will be replaced by the code that was defined in the inline function
+3.3 When the compiler inline-expands a function call, the function's code gets inserted into the caller's code stream (conceptually similar to what happens with a #define macro). This can, depending on a zillion other things, improve performance, because the optimizer can procedurally integrate the called code â€” optimize the called code into the caller. 

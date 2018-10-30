@@ -1,0 +1,6 @@
+12.6 Queue is a buffer, it follows the rule of First In and First out. Queue is very useful in computer science for scheduleing .
+12.6 a queue is a set of elements where the first element inserted is the first element to be removed
+12.6 Is a list of items where the the user only has access to the first element and each new element is added at the end.
+12.6 a queue is a list of data that follows the fifo principle, an example of this would be when you get into a line at a movie theater...the first one there gets to buy a ticket first
+12.6 A queue is a data structure that holds a set of objects, which has a FIFO (first in first out) priority.
+12.6 like a linked list expect first in last out 

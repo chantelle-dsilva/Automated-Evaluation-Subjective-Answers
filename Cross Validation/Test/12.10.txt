@@ -1,0 +1,6 @@
+12.10 three steps<br>visit the root node, then go to right subtree, after visiting right subtree visit left subtree
+12.10 log n
+12.10 ( n(n-1) ) / 2<br><br>
+12.10 2n-1
+12.10 it takes at most h steps, where h is the height of the tree.
+12.10 it depends on the install search tree then from there for whatever the case is the it repeats it back along the case of the primary node

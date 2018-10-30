@@ -1,0 +1,10 @@
+12.1 What is a pointer?
+12.2 What is the experimental approach for measuring the running time of an algorithm?
+12.3 Order the following functions by their running time: n^2; log(log n) ; 2^(log n) ; n! ; n^3.
+12.4 Briefly, how does selection sort work?
+12.5 What is the advantage of linked lists over arrays?
+12.6 What is a queue?
+12.7 What are the main operations associated with a stack?
+12.8 What is the Euler tour traversal of a tree?
+12.9 How do you delete a node from a binary search tree?
+12.10 How many steps does it take to search a node in a binary search tree?

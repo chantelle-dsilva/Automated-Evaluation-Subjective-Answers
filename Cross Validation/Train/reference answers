@@ -1,0 +1,10 @@
+12.1 The address of a location in memory.
+12.2 Implement the algorithm and measure the physical running time.
+12.3 log(log n);  2^(log n) ; n^2 ; n^3; n!
+12.4 It selects the minimum from an array and places it on the first position, then it selects the minimum from the rest of the array and places it on the second position, and so forth.
+12.5 Linked lists are dynamic structures, which allow for a variable number of elements to be stored.
+12.6 A data structure that stores elements following the first in first out principle. The main operations in a queue are enqueue and dequeue.
+12.7 push and pop
+12.8 A walk around the tree, starting with the root, where each node is seen three times: from the left, from below, from the right.
+12.9 Find the node, then replace it with the leftmost node from its right subtree (or the rightmost node from its left subtree).
+12.10 The height of the tree.

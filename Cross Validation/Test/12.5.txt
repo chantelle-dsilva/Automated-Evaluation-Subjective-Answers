@@ -1,0 +1,6 @@
+12.5 Array have fixed size, in Link List are flexible for adding or deleting an element. 
+12.5 they are resizeable
+12.5 Linked lists can be dynamically allocated and their size can change as needed.
+12.5 linked lists do not have to have a specified size, they are easier to add to and remove from
+12.5 they dont have a fixed size, no shiftnig needs to be done for insertion/deletion.
+12.5 linked list many be dynamically grown. It has not limit<br><br>

@@ -1,0 +1,6 @@
+12.7 Push()<br>Pop()<br>Full()<br>IsEmpty()
+12.7 pop and push<br>to remove an element and to insert an element
+12.7 Push, Pop
+12.7 push and pop
+12.7 push - Add an element to the top of the stack<br>pop - remove the top element from the stack
+12.7 push and pop 

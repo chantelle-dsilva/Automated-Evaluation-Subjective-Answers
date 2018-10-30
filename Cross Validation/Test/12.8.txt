@@ -1,0 +1,6 @@
+12.8 not answered
+12.8 to traverse going down to the left then go to the right of last children and back to the top.. kind of like going around the tree
+12.8 You recursively visit every node on the list. You visit the node from the left, the bottom, and from the right.
+12.8 the euler tour is a way to traverse a tree where you come into contact with each node three times, from the left, from the right, and from the bottom
+12.8 traversing a tree level by level
+12.8 The Euler traversal through the tree in a rubber band style shape.

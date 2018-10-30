@@ -1,0 +1,6 @@
+12.1 Pointer is a variable which have a memory address of a variable.
+12.1 a pointer points to a location in memory where data is stored
+12.1 a variable that holds the address of another variable and can access the contents of the variable. 
+12.1 a pointer is a memory address that points to a data member
+12.1 A data type that stores the memory address of another variable.
+12.1 its like a variable but only holds an address in meomrry not the physical address. 

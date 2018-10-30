@@ -1,0 +1,6 @@
+12.9 not answered
+12.9 you cannot delete a node because that can cause a node to have more than 2 children
+12.9 You search the tree for the node using recursion. When you find the node, you determine whether it is a leaf or a internal node. If it is a leaf, you just delete it and set the parent pointer to that node to NULL. If it is a  node, you replace the node with either of the children nodes.
+12.9 to delete the node, you would have to link the children nodes that are connected to the node to be deleted to the remaining nodes of the tree in such a way that nodes on the right of the parent node are larger than the parent and nodes on the left of the parent node are smaller
+12.9 if it has no children, you just delete it. if it only has one child, just replace the node with whichever child it has. if it has both children, replace it with one of its children, and send the other child down along the other side of the new node.
+12.9 pointer to the child and delete it has 2 children set the node to the child and delete it. the node to th middle will then take its place 

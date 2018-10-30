@@ -1,0 +1,6 @@
+11.10 Divide recursuivly big array into two arrays, sort two array and merge them togather recuruivly.
+11.10 divides an array in half and sorts each half by calling its self, thus dividing each half again and again and sorting it until the array is sorted. then putting the elements back in the original array sorted.
+11.10 Merge sort takes an array and splits it in half and sends each half back to itself recursively and merges and sorts the two halves when it starts going back up.
+11.10 merge sort splits an array into two halves and then sorts the two smaller arrays, and then merges them back together to form a sorted array
+11.10 the merge sort continually divides the array (or set of containers) into halves, until it reaches the point where there is just one element left, then merges each of the sets of two sorted arrays (containers).
+11.10 merge sort splits an array of elements into smaller and smaller array's till the value of 1 is reached.
